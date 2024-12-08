@@ -1,0 +1,2 @@
+# STM32_NucleoTrainBaseShield_M3
+Documentation for the STM32_NucleoTrainingBaseShield for Nucleo M3 Controllers
